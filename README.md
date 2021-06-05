@@ -8,6 +8,5 @@ python run.py [PATH_TO_DCM_FILE]
   
 Training and testing scripts assume a CUDA device is installed. Images must be padded and resized to 224x224 prior to model training and testing.
   
-Chest radiographs in DICOM format can also be uploaded to our web-deployed Covid Diagnosis Model available here: https://sites.brown.edu/airadiology/resources/
- 
+
 For all inquiries, please contact chris_kim@alumni.brown.edu.
