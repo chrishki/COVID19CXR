@@ -9,4 +9,4 @@ python run.py [PATH_TO_DCM_FILE]
 Training and testing scripts assume a CUDA device is installed. Images must be padded and resized to 224x224 prior to model training and testing.
   
 
-For all inquiries, please contact chris_kim@alumni.brown.edu. Methodology and model performance are available online: https://www.nature.com/articles/s41746-021-00546-w
+For all inquiries, please contact chris_kim@alumni.brown.edu. Methodology and model performance are available in the following article _An automated COVID-19 triage pipeline using artificial intelligence based on chest radiographs and clinical data_, available online at https://www.nature.com/articles/s41746-021-00546-w
